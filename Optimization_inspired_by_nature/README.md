@@ -12,7 +12,7 @@ The optimization problems used in this project is related to an article with the
 ## Result
 
 In terms of optimality, we compare each function in 3 algorithms with *f found in the article
-According to the results of the tables for each test function in the 3 algorithms, we can see that in all the functions, the optimization has occurred in the 3 algorithms, but in general, the Artificial Bee Colony algorithm has worked more accurately and was able to be closer to the optimal point in get the article
+According to the results of the tables for each test function in the 3 algorithms, we can see that in all the functions, the optimization has occurred in the 3 algorithms, but in general, the Artificial Bee Colony algorithm has worked more accurately and was able to be closer to the optimal point in get the article.
 
 ![In terms of optimality](optimality.PNG "optimality ")
 ![In terms of optimality](optimality_2.PNG "optimality ")
