@@ -2,7 +2,7 @@
 
 ## Decription:
 
-In this project, we implemented L_System in two parts. In the first part, we added the color feature to this system by implementing the code, and in the next part, we explained the rules of growth in 3 dimensions and color in Houdini software.
+In this project, we implemented L_System in two parts. In the first part, we added the color feature to this system by implementing the code, and in the next part, we explained the rules of growth in 3D and color in Houdini software.
 
 The following book was used for further study with the following title by Przemyslaw Prusinkiewicz and Aristid Lindenmayer:
 
