@@ -4,9 +4,10 @@
 
 In this project, we  solved some standard and common optimization problems that are used to compare optimization algorithms using the algorithms of Artificial Bee Colony, Firefly and Particle Swarm Optimization and compared their efficiency.
 
-The optimization problems used in this project is related to an article with the following title by Simon Vandevelde and Joost Vennekens:
+The optimization problems used in this project is related to an article with the following title by Xin-She Yang:
 
-"ProbLife: a Probabilistic Game of Life"
+"Test Problems in Optimization"
+
 
 ## Result
 
