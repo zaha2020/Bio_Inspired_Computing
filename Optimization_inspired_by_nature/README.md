@@ -2,7 +2,7 @@
 
 ## Decription:
 
-In this project, we  solved some standard and common optimization problems that are used to compare optimization algorithms using the algorithms of Artificial Bee Colony, Firefly algorithm and Particle Swarm Optimization and compared their efficiency.
+In this project, we  solved some standard and common optimization problems that are used to compare optimization algorithms using the algorithms of Artificial Bee Colony, Firefly and Particle Swarm Optimization and compared their efficiency.
 
 The optimization problems used in this project is related to an article with the following title by Simon Vandevelde and Joost Vennekens:
 
@@ -22,5 +22,5 @@ One of the characteristics of these 3 algorithms is the high convergence speed, 
 ![In terms of convergence speed](convergence.PNG "convergence speed ")
 
 
-The Firefly algorithm has solved all the test functions with the shortest possible time compared to the other 2 algorithms, and the honey bees algorithm has the longest execution time with about 1 minute and 9 seconds.
+The Firefly algorithm has solved all the test functions with the shortest possible time compared to the other 2 algorithms, and the Artificial Bee Colony algorithm has the longest execution time with about 1 minute and 9 seconds.
 
