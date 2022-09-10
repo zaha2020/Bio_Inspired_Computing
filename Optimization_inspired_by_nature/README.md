@@ -1,4 +1,4 @@
-# Optimization inspired by nature
+# Bio-Inspired Optimization methods
 
 ## Decription:
 
